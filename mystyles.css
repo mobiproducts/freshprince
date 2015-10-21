@@ -1,0 +1,47 @@
+body{
+	background-color: grey;
+	text-align: center;
+
+}
+
+header{
+	background: #999;
+	color: white;
+	padding: 15px 15px 0 15px
+
+}
+h1{
+	color:red;
+	font-style: arial;
+
+}
+.image { 
+	top: 0;
+	left: 0;
+   height: 500px; 
+   width: 100%;
+   background: url(https://images.unsplash.com/photo-1436377734980-0ee004df570b?q=80&fm=jpg&s=c9ea8b92dae4ce8f61f616fb44ae003e) no-repeat;
+   background-size: 100% 100%;
+   background-repeat: no-repeat;
+}
+
+h1 { 
+   position: absolute; 
+   top: 200px; 
+   left: 0; 
+   width: 100%; 
+}
+
+/*.bg{
+   height: 500px; 
+   width: 100%;
+   background: black url(https://images.unsplash.com/photo-1436377734980-0ee004df570b?q=80&fm=jpg&s=c9ea8b92dae4ce8f61f616fb44ae003e) no-repeat;
+    background-size: 100% 100%;*/
+/*
+Change the background color of the site
+Center the content of your site
+Change the text's font
+Add an "unordered list" displaying 5 other Shakespeare titles
+Add a link to Shakespeare's Wikipedia page
+*/
+
